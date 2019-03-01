@@ -1,0 +1,1 @@
+# pyqt_application_with_separated_ui_tabs
